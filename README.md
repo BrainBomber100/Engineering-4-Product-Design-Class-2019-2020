@@ -10,3 +10,7 @@ When the magnet is connected to the reed switch, it triggers Twilio to text your
 You can use buttons on the Dashboard to activate or deactivate the device when you want to button your clothing normally. There are also text inputs on the dashboard to set what numbers the device will text. All of the electronics will be stored inside of a thin compact case (about the size of a wallet) with the reed switch exposed at one end, so that the process of sewing into or onto an article of clothing is easier.
 
 The complete development time for this project was about 2-3 weeks during the COVID-19 Crisis.
+
+![](Images/Idea.png)
+
+![](Images/diagram.png)
